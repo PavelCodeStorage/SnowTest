@@ -1,0 +1,68 @@
+{
+  "uuid": "12b365c0-f86b-435b-9fda-cd86107ab78e-tr-0-1001",
+  "historyId": "SnowSoftware.Tests.CheckReleaseNotes",
+  "fullName": "SnowSoftware.Tests.CheckReleaseNotes",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "PavelDovgans-MacBook-Air"
+    },
+    {
+      "name": "testClass",
+      "value": "SnowSoftware.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckReleaseNotes"
+    },
+    {
+      "name": "package",
+      "value": "SnowSoftware.Tests"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    }
+  ],
+  "links": [],
+  "name": "CheckReleaseNotes",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Check Exist 'Snow License Manager 9.7.1 Release Note'\n",
+  "steps": [
+    {
+      "name": "CheckReleaseNotes",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "e5b11475578b4c7fb81abbb74c060597-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1606288126911,
+      "stop": 1606288146260
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1606288126909,
+  "stop": 1606288146274
+}

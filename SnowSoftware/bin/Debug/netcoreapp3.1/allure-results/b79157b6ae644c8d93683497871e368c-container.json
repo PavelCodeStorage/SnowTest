@@ -1,0 +1,44 @@
+{
+  "uuid": "9b51c421-b147-425a-a981-3dafb1626710-tc-0-1000",
+  "name": "SnowSoftware.Tests.CheckReleaseNotes",
+  "children": [
+    "12b365c0-f86b-435b-9fda-cd86107ab78e-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1606288146252,
+      "stop": 1606288146252
+    }
+  ],
+  "afters": [
+    {
+      "name": "After",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1606288146253,
+      "stop": 1606288146253
+    }
+  ],
+  "links": [],
+  "start": 1606288126906,
+  "stop": 1606288146326
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PavelDovgans-MacBook-Air",
+    "children" : [ {
+      "name" : "NonParallelWorker",
+      "children" : [ {
+        "name" : "CheckReleaseNotes",
+        "uid" : "3cc63f9483657e03",
+        "parentUid" : "4b5e44a78448d63fbea4f30ca5943301",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606288126909,
+          "stop" : 1606288146274,
+          "duration" : 19365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4b5e44a78448d63fbea4f30ca5943301"
+    } ],
+    "uid" : "f5489d0e38111c8a32f21175c5a52543"
+  } ]
+}

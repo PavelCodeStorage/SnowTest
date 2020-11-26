@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SnowSoftware.Tests",
+    "children" : [ {
+      "name" : "CheckReleaseNotes",
+      "uid" : "3cc63f9483657e03",
+      "parentUid" : "8fa911acc45b37e1b2ad3945b3cbd04e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606288126909,
+        "stop" : 1606288146274,
+        "duration" : 19365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "SnowSoftware.Tests"
+  } ]
+}

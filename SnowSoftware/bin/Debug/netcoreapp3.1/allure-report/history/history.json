@@ -1,0 +1,21 @@
+{
+  "SnowSoftware.Tests.CheckReleaseNotes" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cc63f9483657e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606288126909,
+        "stop" : 1606288146274,
+        "duration" : 19365
+      }
+    } ]
+  }
+}

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "3cc63f9483657e03",
+  "name" : "CheckReleaseNotes",
+  "time" : {
+    "start" : 1606288126909,
+    "stop" : 1606288146274,
+    "duration" : 19365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
